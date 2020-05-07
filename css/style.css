@@ -90,11 +90,13 @@ button:focus, input:focus {
     margin: 0;
     line-height: 1.4;
     position: absolute;
-    top: 25%;
-    left: 37%;
-    width: 20vw;
+    top: 0;
+    left: 23%;
+    width: 35vw;
     color: #1d1d1d;
-    /* visibility: hidden; */
+}
+.started-link-text {
+    text-align: right;
 }
 .box-icon {
     background-color: #000;
